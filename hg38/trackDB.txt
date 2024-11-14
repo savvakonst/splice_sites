@@ -1,0 +1,9 @@
+
+track hg38_cds.pc.non_ovlp.sp
+type bigBed 6 +
+bigDataUrl hg38_cds.pc.non_ovlp.sp.bb
+itemRgb on
+visibility 3
+shortLabel hg38_cds.pc.non_ovlp.sp
+longLabel mapped hg38 splice sites
+    

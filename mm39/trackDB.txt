@@ -1,0 +1,17 @@
+
+track mm39_cds.pc.u.aggr
+type bigBed 12 +
+bigDataUrl mm39_cds.pc.u.aggr.bb
+itemRgb on
+visibility 3
+shortLabel mm39_cds.pc.u.aggr
+longLabel mapped hg38 splice sites
+    
+track mm39_cds.pc.non_ovlp
+type bigBed 6 +
+bigDataUrl mm39_cds.pc.non_ovlp.bb
+itemRgb on
+visibility 3
+shortLabel mm39_cds.pc.non_ovlp
+longLabel mapped hg38 splice sites
+    
