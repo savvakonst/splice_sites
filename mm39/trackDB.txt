@@ -14,4 +14,13 @@ itemRgb on
 visibility 3
 shortLabel mm39_cds.pc.non_ovlp
 longLabel mapped hg38 splice sites
+
+    
+track mm39_cds.test.sp
+type bigBed 6 +
+bigDataUrl mm39_cds.test.sp.bb
+itemRgb on
+visibility 3
+shortLabel mm39_cds.test.sp
+longLabel mapped hg38 splice sites
     
